@@ -1,59 +1,49 @@
-# 💫 About Me
+# 🚀 Building Scalable Solutions | Full-Stack MERN Developer
 
-👋 Hi, I'm **Divyanshu Mani Tripathi**, a developer passionate about **Full-Stack Web Development**, **Scalable Architectures**, and building user-centric applications.
+👋 **Hi, I'm Divyanshu Mani Tripathi!** I am a **Full-Stack Engineer** who bridges the gap between complex backend logic and seamless user experiences. I don't just write code; I build products that solve real-world problems. With a focus on the **MERN Stack**, I specialize in creating high-performance, startup-ready applications.
 
-- 🎓 Pursuing expertise in Modern Web Technologies.
-- 🚀 I build high-performance web applications, specialized in the **MERN stack** and **E-commerce solutions**.
-- 📍 Based in India.
-- 📫 Reach me at: [divyanshumani7@gmail.com]
-- 🧠 Exploring: Microservices, System Design, and Cloud Orchestration.
-
----
-
-# 🚀 What I Do
-
-- 🤖 **Full-Stack Development**: Building end-to-end applications with React, Node.js, and Express.
-- 🛒 **E-Commerce Specialist**: Designing seamless shopping experiences with secure payment integrations.
-- ☁️ **Deployment**: Experienced in deploying and managing applications on platforms like **Render**.
-- 🛠️ **Backend Engineering**: Designing robust APIs and managing NoSQL databases like **MongoDB**.
+- ⚡ **Current Focus:** Optimizing web performance and building scalable microservices.
+- 🛠️ **Startup Mindset:** I thrive in fast-paced environments, prioritizing clean code and rapid deployment.
+- 🤝 **Collaboration:** I’m looking to contribute to innovative teams and high-growth startups.
+- 📫 **Connect with me:** [Insert LinkedIn Link] | [Insert Email]
 
 ---
 
-# 💻 Tech Stack
-
-### 🌐 Languages & Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### ⚙️ Backend & Databases
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-
-### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
+### 💼 Why Hire Me?
+* **Full-Cycle Development:** From database schema design to responsive UI/UX deployment.
+* **Performance First:** Expert in writing optimized JavaScript and efficient MongoDB queries to ensure fast load times.
+* **Product Thinking:** I build with the end-user in mind, ensuring every feature adds business value.
+* **Continuous Learner:** Fast at picking up new frameworks and adapting to project requirements.
 
 ---
 
-# 🏆 Highlights & Stats
+### 💻 Tech Stack & Expertise
 
-- 🛒 **Flagship Project**: Developed a fully functional [E-Commerce Platform](https://github.com/tripathi-03/E-Commerce).
-- ⚡ **Optimized Performance**: Specialized in writing clean, modular JavaScript code.
-- 🌟 **Open Source**: Actively contributing to web development communities.
+| Category | Tech & Tools |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![RestAPI](https://img.shields.io/badge/-REST%20APIs-005571?style=flat-square) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) |
+| **DevOps/Tools** | ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tripathi-03&show_icons=true&theme=radical" alt="Tripathi's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathi-03&layout=compact&theme=radical" alt="Top Languages" />
+---
+
+### 🛠️ Featured Work
+#### [Comprehensive E-Commerce Engine](https://github.com/tripathi-03/E-Commerce)
+*An enterprise-grade shopping solution focused on scalability.*
+* **Tech:** React, Node.js, MongoDB, JWT Authentication.
+* **Highlight:** Implemented a complex state management system for real-time cart updates and secure checkout flows.
+* **Impact:** Fully responsive design with an optimized backend capable of handling high traffic.
+
+---
+
+### 📊 GitHub Activity & Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tripathi-03&show_icons=true&theme=tokyonight&count_private=true" alt="Tripathi's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathi-03&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
 </p>
 
 ---
 
-# ✍️ Random Dev Quote
-> "The best way to predict the future is to invent it." — *Alan Kay*
-
----
-✨ *Feel free to explore my repositories and reach out for collaborations!*
+### 🤝 Let's Build Something Great Together
+I am currently open to **Full-Time roles** and **Freelance opportunities**. If you're looking for a developer who is proactive, tech-savvy, and ready to contribute from Day 1, let's talk!
