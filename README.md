@@ -43,16 +43,6 @@ I enjoy working on architecture, performance, and reliability — the parts that
 
 ---
 
-## 📊 GitHub Stats
-
-[![Divyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tripathi-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/tripathi-03)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tripathi-03&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/tripathi-03)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tripathi-03&theme=tokyonight&hide_border=true)](https://github.com/tripathi-03)
-
----
-
 ## 🏆 Highlights
 
 - ⭐ **CodeChef 3★**
