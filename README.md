@@ -1,4 +1,4 @@
-# 🚀 Building Scalable Solutions | Full-Stack Engineer (MERN & SQL)
+# 🚀 Building Scalable Solutions | Full-Stack Engineer (MERN)
 
 👋 **Hi, I'm Divyanshu Mani!** I am a **Full-Stack Engineer** who bridges the gap between complex backend logic and seamless user experiences. I don't just write code; I build products that solve real-world problems. With expertise in **JavaScript & TypeScript** and both **NoSQL & Relational Databases**, I specialize in creating high-performance, startup-ready applications.
 
