@@ -1,4 +1,4 @@
-# 🚀 Building Scalable Solutions | Full-Stack Engineer (MERN)
+# 🚀 Building Scalable Solutions | Full-Stack Engineer (MERN & SQL)
 
 👋 **Hi, I'm Divyanshu Mani!** I am a **Full-Stack Engineer** who bridges the gap between complex backend logic and seamless user experiences. I don't just write code; I build products that solve real-world problems. With expertise in **JavaScript & TypeScript** and both **NoSQL & Relational Databases**, I specialize in creating high-performance, startup-ready applications.
 
@@ -31,9 +31,14 @@
 ---
 
 ### 📊 GitHub Activity & Insights
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tripathi-03&show_icons=true&theme=tokyonight&count_private=true" alt="Divyanshu's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathi-03&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tripathi-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Divyanshu's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathi-03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tripathi-03&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="94%" />
 </p>
 
 ---
