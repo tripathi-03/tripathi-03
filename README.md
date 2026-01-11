@@ -1,85 +1,55 @@
 # 🚀 Building Scalable Solutions | Full-Stack Engineer (MERN, SQL & Cloud)
 
 👋 **Hi, I'm Divyanshu Mani**  
-I’m a **Full-Stack Engineer** with a strong backend focus, experienced in building scalable web applications, clean APIs, and reliable systems.  
-I enjoy working close to the core of a product — architecture, performance, and cloud-ready deployments.
+I’m a **Full-Stack Engineer** with a strong backend focus, experienced in building scalable web applications, clean REST APIs, and cloud-ready systems.
+
+I enjoy working on architecture, performance, and reliability — the parts that matter when products scale.
 
 ---
 
 ## 👨‍💻 About Me
 
-- ⚡ **Core Focus:** Backend-heavy MERN applications & REST API design  
-- 🧠 **Engineering Mindset:** Clean architecture, performance & maintainability  
-- ☁️ **Cloud Exposure:** Deploying & managing applications on AWS  
-- 🛠️ **Code Quality:** Type-safe development and scalable patterns  
-- 🤝 **Open To:** Full-time roles & startup environments  
-- 📫 **Reach Me:**  
-  [LinkedIn](https://www.linkedin.com/in/divyanshumani7/) • [Email](mailto:divyanshmani7@gmail.com)
+- ⚡ Backend-focused MERN development & API design  
+- 🧠 Clean architecture, performance & maintainability  
+- ☁️ Hands-on experience with AWS deployments  
+- 🛠️ Type-safe and production-ready code  
+- 🤝 Open to full-time roles & startup environments  
+
+📫 **Reach me:**  
+[LinkedIn](https://www.linkedin.com/in/divyanshumani7/) • [Email](mailto:divyanshmani7@gmail.com)
 
 ---
 
 ## 💼 What I Bring
 
-- **Scalable Backend Systems** – Modular, production-ready APIs
-- **Modern JavaScript & TypeScript** – Async, clean, maintainable code
-- **Database Skills** – MongoDB, PostgreSQL, MySQL
-- **Cloud Awareness** – AWS-based deployments & environment setup
-- **Product Ownership** – Understanding business needs, not just features
+- Scalable backend systems & REST APIs  
+- Modern JavaScript & TypeScript development  
+- Strong database fundamentals (SQL + NoSQL)  
+- Cloud-aware development using AWS  
+- Ownership mindset with product understanding  
 
 ---
 
 ## 🧰 Tech Stack
 
-### Languages
-- JavaScript
-- TypeScript
-- C
-- C++
-- Python
-
-### Frontend
-- React
-- HTML5
-- CSS3
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-
-### Databases
-- MongoDB
-- PostgreSQL
-- MySQL
-
-### Cloud & DevOps
-- AWS (EC2, S3, basic deployment & configuration)
-- Git
-- Postman
-
-### Tools
-- VS Code
-- GitHub
+| Category | Technologies |
+|--------|-------------|
+| **Languages** | JavaScript · TypeScript · C · C++ · Python |
+| **Frontend** | React · HTML5 · CSS3 · Tailwind CSS |
+| **Backend** | Node.js · Express.js · REST APIs |
+| **Databases** | MongoDB · PostgreSQL · MySQL |
+| **Cloud & DevOps** | AWS (EC2, S3) · Git |
+| **Tools** | Postman · VS Code · GitHub |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/tripathi-03">
-    <img src="https://github-readme-stats.vercel.app/api?username=tripathi-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  </a>
-  <a href="https://github.com/tripathi-03">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathi-03&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-  </a>
-</p>
+[![Divyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tripathi-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/tripathi-03)
 
-<p align="center">
-  <a href="https://github.com/tripathi-03">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tripathi-03&theme=tokyonight&hide_border=true" width="94%" />
-  </a>
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tripathi-03&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/tripathi-03)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tripathi-03&theme=tokyonight&hide_border=true)](https://github.com/tripathi-03)
 
 ---
 
@@ -87,17 +57,17 @@ I enjoy working close to the core of a product — architecture, performance, an
 
 - ⭐ **CodeChef 3★**
 - 🏅 **Facebook Hacker Cup – Round 2 Qualified**
-- 🧠 Strong foundation in **DSA & problem-solving**
-- 🚀 Experience working on **scalable, backend-driven systems**
+- 🧠 Strong problem-solving & DSA foundation
+- 🚀 Backend-first engineering mindset
 
 ---
 
 ## 🤝 Let’s Build Something Great
 
-I’m looking for opportunities where I can:
-- Work on meaningful backend problems
-- Build scalable, cloud-ready products
-- Grow with a strong engineering team
+I’m looking for roles where I can:
+- Build scalable backend systems  
+- Work on cloud-ready applications  
+- Grow with strong engineering teams  
 
 📩 **Let’s connect:**  
 [LinkedIn](https://www.linkedin.com/in/divyanshumani7/) • [Email](mailto:divyanshmani7@gmail.com)
